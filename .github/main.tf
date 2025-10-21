@@ -11,5 +11,6 @@ terraform {
 resource "aws_s3_bucket" "bucket" {
   bucket = "dave-31-bucket-name-123456"
   }
+  
 } 
 }
